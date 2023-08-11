@@ -20,4 +20,4 @@ IAM se integriše sa Security Token Service (STS) za vanjski pristup AWS resursi
 
 ## Zaključak
 
-Sedmica 7 obuhvata osnovne koncepte EC2 i IAM u AWS ekosistemu. EC2 omogućava virtuelne resurse, dok IAM garantuje siguran pristup i upravljanje privilegijama, ključno za izgradnju pouzdanih oblak aplikacija.
+Sedmica 7 obuhvata osnovne koncepte EC2 i IAM u AWS ekosistemu. EC2 omogućava virtuelne resurse, dok IAM garantuje siguran pristup i upravljanje privilegijama, ključno za izgradnju pouzdanih cloud aplikacija.
